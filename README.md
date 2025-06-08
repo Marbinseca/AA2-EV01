@@ -7,13 +7,13 @@ preferencias de los consumidores que influyen en el comportamiento de compra, y 
 a comprender cómo satisfacer las necesidades de los clientes, proporcionarles valor y monetizar su 
 negocio.
 
-El dataset consta de los siguientes campos: (\n)
-- CustomerID: Identificación del cliente. (\n)
-- Gender: Genero del cliente. (\n)
-- Age: Edad del cliente. (\n)
-- AnnualIncome: Ingresos anuales del cliente. (\n)
+El dataset consta de los siguientes campos: 
+- CustomerID: Identificación del cliente. 
+- Gender: Genero del cliente. 
+- Age: Edad del cliente. 
+- AnnualIncome: Ingresos anuales del cliente. 
 - SpendingScore: Puntuación del gasto, valor entre 1 y 100, que indica cuánto ha gastado un cliente 
-en el centro comercial; cuanto más valor, más puntaje. (\n)
+en el centro comercial; cuanto más valor, más puntaje. 
 
 
 ![image](https://github.com/user-attachments/assets/4aa411d3-f03c-41f1-879a-6e43b4c4bd8c)
