@@ -13,8 +13,8 @@ El dataset consta de los siguientes campos: (\n)
 - Age: Edad del cliente. (\n)
 - AnnualIncome: Ingresos anuales del cliente. (\n)
 - SpendingScore: Puntuación del gasto, valor entre 1 y 100, que indica cuánto ha gastado un cliente 
-en el centro comercial; cuanto más valor, más puntaje. 
+en el centro comercial; cuanto más valor, más puntaje. (\n)
 
 
+![image](https://github.com/user-attachments/assets/4aa411d3-f03c-41f1-879a-6e43b4c4bd8c)
 
-![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQShckQ1gfvFvkggaR5IRTZoJD6VxJXvcw1bA&s)
