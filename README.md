@@ -15,12 +15,6 @@ El dataset consta de los siguientes campos: (\n)
 - SpendingScore: Puntuación del gasto, valor entre 1 y 100, que indica cuánto ha gastado un cliente 
 en el centro comercial; cuanto más valor, más puntaje. 
 
-<div>
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQShckQ1gfvFvkggaR5IRTZoJD6VxJXvcw1bA&s alt="Imagen K-Means">
-</div>
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logotipo_SENA.jpg" alt="Imagen redimensionada" width="30%" height="auto">
-</div>
 
 
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQShckQ1gfvFvkggaR5IRTZoJD6VxJXvcw1bA&s)
